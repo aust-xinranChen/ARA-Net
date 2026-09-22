@@ -1,4 +1,4 @@
-# RHMI-Net
+# ARA-Net
 
 Official implementation of **ARA-Net: An Asymmetric and Region-Adaptive Network for Optical-SAR Remote Sensing Object Detection**.
 
